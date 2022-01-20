@@ -33,8 +33,8 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
-p {
-    font-size: 18px;
+p , label {
+    font-size: 20px;
     line-height: 24px;
     color: #fff;
 }
@@ -145,7 +145,7 @@ html {
 }
 
 .menu .author-content span {
-    font-size: 13px;
+    font-size: 15px;
     font-style: italic;
     color: #fff;
 }
